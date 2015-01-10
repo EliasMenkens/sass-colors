@@ -3,6 +3,7 @@
  *
  * @author		Elias Menkens <elias.menkens@gmail.com>
  * @reference	http://www.flatuicolorpicker.com/all
+ * @reference	http://flatuicolors.com/
  *
  */
 
@@ -17,6 +18,8 @@ $flat-valencia: #D64541;
 $flat-tall-poppy: #C0392B;
 $flat-monza: #CF000F;
 $flat-cinnabar: #E74C3C;
+
+$flat-alizarin: $flat-cinnabar;
 
 // Pink
 
@@ -39,7 +42,9 @@ $flat-seance: #9A12B3;
 $flat-medium-purple: #BF55EC;
 $flat-light-wisteria: #BE90D4;
 $flat-studio: #8E44AD;
-$flat-wisteria: #9B59B6;
+
+$flat-amethyst: #9B59B6;
+$flat-wisteria: #8E44AD;
 
 // Blue
 
@@ -51,13 +56,13 @@ $flat-spray: #81CFE0;
 $flat-shakespeare: #52B3D9;
 $flat-humming-bird: #C5EFF7;
 $flat-picton-blue-dark: #22A7F0; // !!
-$flat-curious-blue-dark: #3498DB; // !!
+$flat-peter-river: #3498DB; // !!
 $flat-madison: #2C3E50;
 $flat-dodger-blue: #19B5FE;
 $flat-ming: #336E7B;
 $flat-ebony-clay: #22313F;
 $flat-malibu: #6BB9F0;
-$flat-curious-blue-dark: #1E8BC3; // !!
+$flat-curious-blue: #1E8BC3;
 $flat-chambray: #3A539B;
 $flat-pickled-bluewood: #34495E;
 $flat-hoki: #67809F;
@@ -66,6 +71,11 @@ $flat-jacksons-purple: #1F3A93;
 $flat-jordy-blue: #89C4F4;
 $flat-steel-blue: #4B77BE;
 $flat-fountain-blue: #5C97BF;
+
+$flat-belize-hole: #2980B9;
+
+$flat-wet-asphalt: $flat-pickled-bluewood;
+$flat-midnight-blue: $flat-madison;
 
 // Green
 
@@ -95,11 +105,18 @@ $flat-salem: #1E824C;
 $flat-observatory: #049372;
 $flat-jungle-green: #26C281;
 
+$flat-nephritis: #27AE60;
+$flat-green-sea: #1ABC9C;
+
+$flat-emerald: $flat-shamrock;
+
 // Yellow
 
 $flat-cream-can: #F5D76E;
 $flat-ripe-lemon: #F7CA18;
 $flat-saffron: #F4D03F;
+
+$flat-sun-flower: #f1C40F;
 
 // Orange
 
@@ -118,6 +135,10 @@ $flat-sandstorm: #F9BF3B;
 $flat-jaffa-dark: #F27935; // !!
 $flat-zest: #E67E22;
 
+$flat-orange: $flat-buttercup;
+$flat-carrot: $flat-zest;
+$flat-pumpkin: $flat-burnt-orange;
+
 // Gray
 
 $flat-white-smoke: #ECECEC;
@@ -131,3 +152,9 @@ $flat-iron: #DADFE1;
 $flat-edward: #ABB7B7;
 $flat-cararra: #F2F1EF;
 $flat-silver: #BFBFBF;
+
+$flat-asbestos: #7F8C8D;
+
+$flat-clouds: $flat-porcelain;
+$flat-concrete: $flat-cascade;
+$flat-silver: $flat-silver-sand;
